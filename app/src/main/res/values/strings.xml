@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Earthquakes</string>
+
+    <!--Earthquake Activity-->
+    <string name="activity_earthquakes_list">Earthquakes List</string>
+
+    <!--Earthquake Details Activity-->
+    <string name="activity_earthquake_details">Earthquake Details</string>
+</resources>
